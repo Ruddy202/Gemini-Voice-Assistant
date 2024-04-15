@@ -1,0 +1,6 @@
+openai
+google-generativeai
+faster-whisper
+SpeechRecognition
+playsound
+PyAudio
